@@ -13,11 +13,6 @@
 .winePhoto{background-image:url('assets/wine-tours.jpg')}
 .internationalPhoto{background-image:url('assets/international.jpg')}
 .routePic{background-size:cover!important;background-position:center!important}
-.route-airport{background-image:url('assets/route-airport.jpg')!important}
-.route-iasi{background-image:url('assets/route-iasi.jpg')!important}
-.route-bucharest{background-image:url('assets/route-bucharest.jpg')!important}
-.route-cricova{background-image:url('assets/route-cricova.jpg')!important}
-.route-purcari{background-image:url('assets/route-purcari.jpg')!important}
 @media (prefers-reduced-motion:reduce){.heroVideo{display:none}}
 
 /* Robust media rendering: actual img elements, not CSS-only backgrounds */
