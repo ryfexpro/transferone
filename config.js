@@ -1,8 +1,8 @@
 window.TRANSFERONE_CONFIG = {
   brand: "TransferOne",
-  whatsapp: "", // digits only, e.g. 373xxxxxxxx
-  phone: "",    // visible phone, e.g. +373 xx xxx xxx
-  email: "",    // booking email
+  whatsapp: "37379688744",
+  phone: "+373 79 688744",
+  email: "",
   instagram: "",
   defaultLanguage: "EN"
 };
